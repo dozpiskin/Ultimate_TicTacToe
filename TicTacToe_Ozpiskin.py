@@ -1,5 +1,4 @@
 "Projet TicTacToe"
-"Ilham El Amriti et Derin Ozpiskin"
 
 import random
 
